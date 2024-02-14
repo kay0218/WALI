@@ -1,0 +1,10 @@
+.bg-image {
+    height: 100vh;
+    width: 100vw;
+}
+
+body {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-color: #12274d;
+}
