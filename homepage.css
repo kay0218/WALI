@@ -1,5 +1,5 @@
 body {
-    overflow-y: hidden;
+    overflow-y: scroll;
     overflow-x: hidden;
     background-color: #12274d;
     color: #c9af6f;
