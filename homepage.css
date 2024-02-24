@@ -3,8 +3,8 @@ body {
     overflow-x: hidden;
     background-color: #12274d;
     color: #c9af6f;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-family: "Lancelot", serif;
+    font-size: 30px;
 }
 
 hr {
@@ -22,25 +22,25 @@ hr {
 /* unvisited link */
 a:link {
     color: #c9af6f;
-    font-size: 18px;
+    font-size: 35px;
   }
   
   /* visited link */
   a:visited {
     color: #c9af6f;
-    font-size: 18px;
+    font-size: 35px;
   }
   
   /* mouse over link */
   a:hover {
     color: #c9af6f;
-    font-size: 18px;
+    font-size: 35px;
   }
   
   /* selected link */
   a:active {
     color: #c9af6f;
-    font-size: 18px;
+    font-size: 35px;
   }
 
 
